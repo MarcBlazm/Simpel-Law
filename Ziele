@@ -1,0 +1,53 @@
+# Inhalt für die Website:
+
+# Thema Design: Der Hintergrund soll gerne etwas dunkler sein, jedenfalls aber zu unserem Logo passen (Wenn du in die Seiten schaust, siehst du das Problem). 
+# Neben dem Hintergrund ist uns wichtig, dass man von dem reinen Text nicht erschlagen wird. Wir wollen neben dem langweiligen juristischen auch die spannende IT-Zukunft freien Lauf lassen. Hier hast du meine volle Unterstützung, tobe dich voll aus.
+
+# 1. Homeseite:
+
+# Kurze Introduction zur Website
+
+# 2. Goal
+
+# Hier sollen unsere Ziele für die Gesellschaft aufgezeigt werden. Ziele sind: Digitales Arbeiten, Digitale Entscheidungsfindung, Prozesse vereinfachen, Sicherheit gewährleisten (zukünftig ist KI-Einsatz für systemkritische Infrastruktur geplant).
+
+# 3. Team
+
+# Hier soll das gesamte Team aufgezeigt werden. An dem bisherigen Layout muss nicht viel geändert werden (vielleicht die Hintergrundfarbe ändern, damit Logo besser hervorkommt).
+# Wichtig wäre mir, dass wenn man auf die einzelnen Cards draufklickt direkt zu den einzelnen Seiten zu der Personen kommt um mehr Infos zu den Personen bekommt (was zeichnet die aus usw., wir können hier mit mir anfangen).
+
+# Am Ende der Seite soll noch ein heller Kasten sein (am besten runde Ecken) in welchem man die Möglichkeit haben soll, sich zu bewerben. Man soll dann automatisch zu einer gesicherten Seite weitergeleitet werden, in welcher mann auf offene Stellen zugreifen kann oder sich initiativ bewerben kann. 
+# Egal ob initiativ oder nicht, folgende Daten sollen dann eingetragen werden:
+# (1) Prename, Surname
+# (2) Adresse
+# (3) Birthdate, Place of birth (automatic check whether the person is 18 or not)
+# (4) Upload of Photo
+
+# After inserting all infos, the following fields should open automatically:
+# (5) Upload of CV in pdf (only pdf)
+# (6) Upload of letter of motivation (only pdf)
+# (7) Check Box to accept the GDPR requirements
+
+# Automatic reply that we received the application.
+
+# 4. Contact
+
+# Über diese Seite sollen die Kunden Kontakt mit uns aufnehmen können. Ich denke diese Hover kann weg und stattdessen durch den blauen Button ersetzt werden. Auf der Seite soll ein Kontaktfeld sein, dass
+# (1) Prename, Surname
+# (2) Company 
+# (3) Adresse
+# (4) VAT-Number (vielleicht kriegen wir als System selbst hin, dass hier direkt eine Richtigkeitsprüfung stattfindet)
+# (5) Message (Hier soll der Kunde erste Infos zu seinem Projekt reinschreiben können)
+
+# 5. Blog
+
+# Hier sollen in kleinen Cards neuste Infos dargestellt werden. 
+# Die einzelnen Cards sollen genauso wie zu 3. auf neue Seiten verlinken.
+
+# 6. Imprint
+
+# Ein grobes Layout erstellen für ein Impressum. Hierzu meine private Adresse zunächst benutzen (Marcello zur Mühlen, Matthias-Claudius-Str. 16, 65185 Wiesbaden)
+
+# 7. Datenschutz
+
+# Der große Müll des Datenschutzes hierhin schreiben. Besondere Anforderungen wegen AI-Act und personenbezogene Daten bzgl. Bewerbung.
