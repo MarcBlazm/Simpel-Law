@@ -55,6 +55,6 @@
 # 8. Weiteres
 
 # - Plan ist, dass ein internes Tool für alle Mitarbeiter programmiert wird, in welchem alle personenbezogene Daten erfasst werden, weiter Arbeitszeiten notiert werden und Urlaubsanträge gestellt werden können. Dies muss alles DSGVO-konform sein.
-# - Das Mitarbeiterportal muss zwingend ein Whistleblowing nach HinSchG und Compliance-Portal enthalten. In dem Compliance-Portal müssen alle relevanten Persönlichen Interessen in einem Formular angegeben werden können.
+# - Das Mitarbeiterportal muss zwingend ein Whistleblowing nach HinSchG und Compliance-Portal enthalten. Meldungen nach dem HinSchG beziehen sich auf (1) Geldwäsche inklusive Tatbestände nach §§ 108e, 261, 263, 332-335, 353a, 353b StGB; (2) Terrorismusfinanzierung; (3) Verletzung des Datenschutzes; (4) Steuerstraf- und Ordnungswidrigkeiten.  In dem Compliance-Portal müssen alle relevanten Persönlichen Interessen in einem Formular angegeben werden können.
 
 # - Eigentliches Zieles der Company: (1) Datenbank erstellen (vielleicht mit MySQL?) in welcher jedwede Rechtsprechung gespeichert werden soll; (2) Weitere Schritte erst erledigen, wenn eine festere Zusage von Kunden kommen.
