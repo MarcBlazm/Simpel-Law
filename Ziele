@@ -51,3 +51,9 @@
 # 7. Datenschutz
 
 # Der große Müll des Datenschutzes hierhin schreiben. Besondere Anforderungen wegen AI-Act und personenbezogene Daten bzgl. Bewerbung.
+
+# 8. Weiteres
+
+# - Plan ist, dass ein internes Tool für alle Mitarbeiter programmiert wird, in welchem alle personenbezogene Daten erfasst werden, weiter Arbeitszeiten notiert werden und Urlaubsanträge gestellt werden können. Dies muss alles DSGVO-konform sein.
+
+# - Eigentliches Zieles der Company: (1) Datenbank erstellen (vielleicht mit MySQL?) in welcher jedwede Rechtsprechung gespeichert werden soll; (2) Weitere Schritte erst erledigen, wenn eine festere Zusage von Kunden kommen.
