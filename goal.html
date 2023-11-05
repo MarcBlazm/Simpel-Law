@@ -3,35 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>Home</title>
+    <title>Simpel Law GmbH i.G.</title>
 </head>
 <body>
     <main>
         <div class="container">
-            <img src="Simpel-Law.png" alt="Simpel Law Logo">
-            <h2>Simpel Law GmbH i.G.</h2>
             <nav>
+                <div class="nav-logo">
+                    <a href="index.html">
+                        <img src="pictures/Simpel-Law.png">
+                    </a>
+                </div>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="goal.html">Goal</a></li>
-                    <li><a href="team.html">Team</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <ul class="nav-links">
+                    <li class="link"><a href="goal.html">Goal</a></li>
+                    <li class="link"><a href="team.html">Team</a></li>
+                    <li class="link"><a href="contact.html">Contact</a></li>
+                    <li class="link"><a href="blog.html">Blog</a></li>
                 </ul>
+                </ul>
+                <button class="btn">Contact Us</button>
             </nav>
-            <h1>Unlock the Power of AI for Decision-Making</h1>
-            <p>Are you facing complex cases that consume too many working hours and resources? Do you struggle to maintain an overview of all jurisdiction while trying to reduce costs?</p>
-            <p>Our solution: One tool with advanced decision-making capabilities and jurisdiction insights. Our AI reads all documents, identifying problems you might not see, and streamlines your decision-making process.</p>
-            <p>Don't miss this opportunity to optimize your operations. Contact us now and revolutionize your decision-making process.</p>
-            <a class="contact-button" href="contact.html">Contact Us</a>
+            <header class="container">
+                <div class="content">
+                    <span class="blur"></span>
+                    <span class="blur"></span>
+                    <br>
+                    <h4>Unlock the Power of AI for Decision-Making</h4>
+                </div>
+                <section class="intro">
+                <p>Are you facing complex cases that consume too many working hours and resources? Do you struggle to maintain an overview of all jurisdiction while trying to reduce costs?</p>
+                <p>Our solution: One tool with advanced decision-making capabilities and jurisdiction insights. Our AI reads all documents, identifying problems you might not see, and streamlines your decision-making process.</p>
+                <p>Don't miss this opportunity to optimize your operations. Contact us now and revolutionize your decision-making process.</p>
+                <br><a class="contact-button" href="contact.html">Contact Us</a>
+            </section>
+            </header>
         </div>
     </main>
-    <footer>
-            <p>&copy; 2023 Your Website</p>
-            <ul>
+    <br><br><br>
+    <footer class="container">
+        <span class="blur"></span>
+        <span class="blur"></span>
+        <div class="column">
+            <h4>Company</h4>
                 <li><a href="privacy.html">Data Protection</a></li>
                 <li><a href="imprint.html">Imprint</a></li>
-            </ul>
+        </div>
+        <div class="socials">
+            <h4>Socials</h4>
+                <a href="#"><i class="ri-linkedin-box-fill"></i></a>
+                <a href="#"><i class="ri-instagram-line"></i></a>
+                <a href="#"><i class="ri-twitter-line"></i></a>
+    </div>
     </footer>
+    <div class="copyright">
+        <i class="ri-copyright-line"></i> 2023 Simpel Law GmbH i.G. All Rights Reserved. Alle Rechte vorbehalt.
+    </div>
+    <script src="script.js"></script>
+    <br>
 </body>
 </html>

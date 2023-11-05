@@ -116,6 +116,15 @@ header .content h4{
 
 }
 
+header .content h2{
+    margin-bottom: 1rem;
+    color: #ccc;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
 header .content h1{
     margin-bottom: 1rem;
     color: #ccc;
@@ -186,7 +195,7 @@ section .header{
 .team{
     margin-top: 2rem;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
 }
 
