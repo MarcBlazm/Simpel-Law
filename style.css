@@ -92,12 +92,6 @@ nav{
 
 }
 
-.blur{
-    position: absolute;
-    box-shadow: 0 0 1000px 50px #1d4ed8;
-    z-index: -100;
-}
-
 header{
     position: relative;
     padding-top: 0.1rem;
@@ -273,4 +267,94 @@ a:hover {
     margin-bottom: 0.1rem;
     color: #ccc;
     text-align: left;
+}
+
+.login {
+    width: 400px;
+    background-color: #ffffff;
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+    margin: 100px auto;
+}
+
+.login h1 {
+    text-align: center;
+    color: #5b6574;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #dee0e4;
+}
+
+.login form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.login form label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #3274d6;
+    color: #ffffff;
+}
+.login form input[type="password"], .login form input[type="text"] {
+    width: 310px;
+    height: 50px;
+    border: 1px solid #dee0e4;
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+.login form input[type="submit"] {
+    width: 100%;
+    padding: 15px;
+   margin-top: 20px;
+    background-color: #3274d6;
+    border: 0;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    transition: background-color 0.2s;
+}
+.login form input[type="submit"]:hover {
+  background-color: #2868c7;
+    transition: background-color 0.2s;
+}
+
+label, input, select, textarea {
+    display: block; /* Display each element as a block (stacked vertically) */
+    margin-bottom: 10px; /* Add vertical spacing between elements */
+    width: 100%; /* Expand elements to the full width of their container */
+}
+
+/* Adjust styling for checkboxes */
+input[type="checkbox"] {
+    display: inline; /* Keep checkboxes inline with labels */
+    margin-right: 10px; /* Add horizontal spacing between checkbox and label */
+}
+
+.form-container-HinSchG {
+    width: 800px;
+    background-color: #ffffff;
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+    margin: 100px auto;
+    border: 2px solid #1d4ed8; /* Change the border color */
+    border-radius: 15px; /* Add rounded corners */
+    padding: 20px; /* Add padding for spacing */
+}
+
+.form-container-HinSchG input[type="text"],
+.form-container-HinSchG select,
+.form-container-HinSchG textarea {
+    border: 2px solid #000; /* Set the border color to black */
+    border-radius: 15px; /* Add rounded corners to form fields */
+    padding: 10px; /* Add padding for spacing within form fields */
+}
+
+.form-container-HinSchG input[type="checkbox"],
+.form-container-HinSchG label {
+    display: inline-block; /* Display checkboxes and labels on the same line */
+    margin-right: 10px; /* Add right margin to create spacing between checkboxes and labels */
 }
